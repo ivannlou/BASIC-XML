@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<documento>
+    <titulo>Don Quijote</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <descripcion>La etíqueta
+        <p>Comienza con la etiqueta
+            <imagen fichero="imagen.gif"/>
+        </p>
+    </descripcion>
+</documento>

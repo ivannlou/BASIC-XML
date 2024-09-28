@@ -1,0 +1,8 @@
+Documento 1:
+La etiqueta <descripcion> no está cerrada correctamente.
+La etiqueta <p> no está cerrada correctamente.
+La etiqueta <documento> tiene un espacio extra antes del cierre.
+
+Documento 2:
+Hay una coma extra después de la etiqueta </libro>.
+La etiqueta </libros> tiene un espacio extra antes del cierre.

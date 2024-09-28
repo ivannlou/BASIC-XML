@@ -1,0 +1,46 @@
+<factura>
+    <empresa>
+        <nombre>Business Name</nombre>
+        <contacto>
+            <telefono>(000) 000-0006</telefono>
+            <direccion>Street address, City, State, Zip Code</direccion>
+            <email>Email</email>
+            <sitio_web>Website</sitio_web>
+        </contacto>
+    </empresa>
+    <cliente>
+        <nombre>Client Name</nombre>
+        <direccion>Street address, City, State, Zip Code</direccion>
+    </cliente>
+    <envio>
+        <nombre>Client Name</nombre>
+        <direccion>Street address, City, State, Zip Code</direccion>
+    </envio>
+    <detalles_factura>
+        <numero>12345</numero>
+        <fecha>mm/dd/yyyy</fecha>
+        <terminos>Net 30</terminos>
+        <vencimiento>mm/dd/yyyy</vencimiento>
+    </detalles_factura>
+    <productos>
+        <producto>
+            <nombre>Product or service 1</nombre>
+            <descripcion>Describe your product or service</descripcion>
+            <cantidad>0</cantidad>
+            <precio_unitario>0.00</precio_unitario>
+            <importe>0.00</importe>
+        </producto>
+        <producto>
+            <nombre>Product or service 2</nombre>
+            <descripcion>Describe your product or service</descripcion>
+            <cantidad>0</cantidad>
+            <precio_unitario>0.00</precio_unitario>
+            <importe>0.00</importe>
+        </producto>
+    </productos>
+    <subtotal>0.00</subtotal>
+    <impuestos>0.00</impuestos>
+    <envio>0.00</envio>
+    <total>0.00</total>
+    <mensaje_cliente>Thank you for your purchase. Please return this invoice with payment. Thanks!</mensaje_cliente>
+</factura>

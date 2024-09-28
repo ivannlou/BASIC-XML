@@ -1,0 +1,71 @@
+<arboles>
+    <arbol>
+        <nombre_cientifico>Acer monspessulanum</nombre_cientifico>
+        <nombre_comun>Arce de Montpellier, Arce menor</nombre_comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>6 a 10 metros</altura>
+        <forma_estructura>
+            <copa>Esférica</copa>
+            <tronco>Principal recto con bifurcaciones</tronco>
+            <ramaje>Colgante</ramaje>
+        </forma_estructura>
+        <color_primavera>
+            <haz>Verde brillante</haz>
+            <enves>Verde blanquecino</enves>
+        </color_primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+
+    <arbol>
+        <nombre_cientifico>Olea europea</nombre_cientifico>
+        <nombre_comun>Olivo</nombre_comun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>8 a 15 metros</altura>
+        <forma_estructura>
+            <copa>Irregular</copa>
+            <tronco>Principal irregular con bifurcaciones</tronco>
+            <ramaje>Tortuoso</ramaje>
+        </forma_estructura>
+        <color_primavera>
+            <haz>Verde oscuro</haz>
+            <enves>Verde plateado</enves>
+        </color_primavera>
+        <resistencia_heladas>Heladas medias (hasta -10ºC)</resistencia_heladas>
+    </arbol>
+
+    <arbol>
+        <nombre_cientifico>Platanus orientalis</nombre_cientifico>
+        <nombre_comun>Platano</nombre_comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>20 a 25 metros</altura>
+        <forma_estructura>
+            <copa>Ovoidal</copa>
+            <tronco>Principal recto</tronco>
+            <ramaje>Expandido</ramaje>
+        </forma_estructura>
+        <color_primavera>
+            <haz>Verde medio</haz>
+            <enves>Verde claro</enves>
+        </color_primavera>
+        <color_otonio>Ocre</color_otonio>
+        <resistencia_heladas>Heladas fuertes (hasta -20ºC)</resistencia_heladas>
+    </arbol>
+
+    <arbol>
+        <nombre_cientifico>Quercus ilex</nombre_cientifico>
+        <nombre_comun>Encina</nombre_comun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma_estructura>
+            <copa>Esférica o elíptica irregular</copa>
+            <tronco>Principal recto</tronco>
+            <ramaje>Tortuoso</ramaje>
+        </forma_estructura>
+        <color_primavera>
+            <haz_joven>Plateado</haz_joven>
+            <haz_antiguo>Verde oscuro</haz_antiguo>
+            <enves>Plateado</enves>
+        </color_primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+</arboles>

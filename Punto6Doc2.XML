@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<libros>
+    <libro id="quijote">
+        <titulo>Don Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <descripcion>El ingenioso hidalgo Don Quijote de la Mancha es una novela escrita por el español Miguel de Cervantes Saavedra.</descripcion>
+    </libro>
+</libros>
